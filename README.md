@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=Jovel%20B.%20Portuguez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Creative%20Technologist&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Building+beautiful+digital+experiences;%F0%9F%8E%A8+Where+code+meets+creativity;%F0%9F%9A%80+Founder+%40+AIdvantage" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=130&lines=%F0%9F%92%BB+Building+beautiful+digital+experiences;%F0%9F%8E%A8+Where+code+meets+creativity;%F0%9F%9A%80+Founder+%40+AIdvantage" alt="Typing SVG" /></a>
 
 <br/>
 
