@@ -353,11 +353,7 @@ When I'm not coding, I'm **filming**, **designing**, or **exploring new tech**.
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j-port/j-port/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j-port/j-port/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/j-port/j-port/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://ghchart.rshah.org/a855f7/j-port" alt="Jovel's Contribution Chart" width="100%" />
 
 <br/><br/>
 
